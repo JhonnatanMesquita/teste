@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">De Boas</string>
+    <string name="tela_um">Seja bem-vindo ao "De Boas", onde você aprende meditação e fica sempre de boas.</string>
+    <string name="tela_dois">É divertido e ajudamos você a ficar motivado com recompensas pelo seu empenho em ficar "De Boas" </string>
+    <string name="tela_tres">Você pode acompanhar sua evolução em ficar "De boas" com as nossas estatísticas inteligentes. </string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

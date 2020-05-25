@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/focus00"
+          android:duration="100"/>
+    <item android:drawable="@drawable/focus01"
+        android:duration="100"/>
+    <item android:drawable="@drawable/focus02"
+        android:duration="100"/>
+    <item android:drawable="@drawable/focus03"
+        android:duration="100"/>
+    <item android:drawable="@drawable/focus04"
+        android:duration="100"/>
+    <item android:drawable="@drawable/focus05"
+        android:duration="100"/>
+    <item android:drawable="@drawable/focus06"
+        android:duration="100"/>
+    <item android:drawable="@drawable/focus07"
+        android:duration="100"/>
+    <item android:drawable="@drawable/focus08"
+        android:duration="100"/>
+    <item android:drawable="@drawable/focus09"
+        android:duration="100"/>
+    <item android:drawable="@drawable/focus010"
+        android:duration="100"/>
+    <item android:drawable="@drawable/focus011"
+        android:duration="100"/>
+    <item android:drawable="@drawable/focus012"
+        android:duration="100"/>
+    <item android:drawable="@drawable/focus013"
+        android:duration="100"/>
+
+</animation-list>
